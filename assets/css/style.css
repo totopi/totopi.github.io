@@ -3,5 +3,50 @@ html {
 }
 
 div {
-    color: blue;
+    color: #123456;
+}
+
+aside {
+    margin-bottom: 21px;
+    background-color: white;
+    padding: 21px;
+}
+
+section {
+    margin-bottom: 21px;
+    background-color: white;
+    padding: 21px;
+}
+
+svg {
+    width:16px;
+    height:16px;
+    }
+
+a {
+    color: #75312e;
+}
+
+a:visited {
+    color: #e01c78;
+}
+
+a:hover {
+    color: #f003f0;
+}
+
+.profileimg {
+    border-radius: 50%;
+    padding-left: 42px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+}
+
+.heading {
+    padding-top: 21px;
+    padding-left: 42px;
+}   
+
+.education {
+    text-align: right;
 }
