@@ -9,13 +9,19 @@ div {
 aside {
     margin-bottom: 21px;
     background-color: white;
-    padding: 21px;
+    padding-top: 21px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-bottom: 6px;
 }
 
 section {
     margin-bottom: 21px;
     background-color: white;
-    padding: 21px;
+    padding-top: 21px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-bottom: 6px;
 }
 
 svg {
